@@ -1,6 +1,8 @@
 .vs/
+Binaries/
 Intermediate/
 Saved/
 *.sln
 *.VC.db
 *.VC.VC.opendb
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
