@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.11",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
